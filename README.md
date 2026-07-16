@@ -1,7 +1,7 @@
 # 🌊 Hydrographic Research & Survey Vessel (HRSV)
 
 <p align="center">
-  <img src="./HydrographicSurveyhydro.jpg" alt="Hydrographic Research & Survey Vessel" width="100%">
+  <img src="./hydro.JPG" alt="Hydrographic Research & Survey Vessel" width="100%">
 </p>
 
 <h2 align="center">02 × Hydrographic Research & Survey Vessel (HRSV)</h2>
