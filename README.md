@@ -77,25 +77,7 @@ My role focused on **design review, engineering coordination, design management,
 
 ---
 
-## 📷 Project Gallery
 
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="./HydroConstruction.jpg" width="450"><br>
-<b>Construction Phase</b>
-</td>
-
-<td align="center">
-<img src="./HydroSeaTrial.jpg" width="450"><br>
-<b>Sea Trials & Delivery</b>
-</td>
-
-</tr>
-</table>
-
----
 
 ## 📬 Contact
 
