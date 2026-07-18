@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Navy (BN)</b><br>
-Naval Architect | Design Review | Design Management | Classification Compliance
+Senior Naval Architect | Structural Engineering | Production Design | Construction Support
 </p>
 
 <p align="center">
@@ -21,18 +21,18 @@ Naval Architect | Design Review | Design Management | Classification Compliance
 
 ## 📌 Project Summary
 
-Participated in the successful delivery of **02 Aluminium Catamaran Hull Hydrographic Research & Survey Vessels** for the **Bangladesh Navy**. The vessels were designed to conduct **day and night hydrographic surveys** in Bangladesh's coastal waters, ports, and harbour approaches throughout the year.
+Successfully delivered **02 Aluminium Catamaran Hull Hydrographic Research & Survey Vessels** for the **Bangladesh Navy**. Designed for **day and night hydrographic surveying**, the vessels support seabed mapping, navigation safety, harbour development, and coastal hydrographic operations throughout Bangladesh.
 
-My role focused on **design review, engineering coordination, design management, and technical compliance**, ensuring that the vessel design satisfied contractual requirements, construction standards, and project objectives from design approval through delivery.
+My responsibilities included **structural engineering, detailed production design, engineering coordination, and construction support**, converting the approved basic design into production-ready drawings while ensuring compliance with contractual requirements, aluminium shipbuilding standards, and project quality objectives.
 
 | **Client** | Bangladesh Navy (BN) |
 |:-----------|:---------------------|
 | **Vessel Type** | Hydrographic Research & Survey Vessel |
 | **Quantity** | 02 Vessels |
 | **Hull Type** | Aluminium Catamaran |
-| **Material** | Aluminium Grade 5083 |
-| **Role** | Naval Architect |
-| **Scope** | Design Review • Design Management • Technical Coordination • Construction Support |
+| **Material** | Aluminium Alloy 5083 |
+| **Role** | Senior Naval Architect |
+| **Scope** | Structural Engineering • Production Design • Engineering Coordination • Construction Support |
 | **Delivery** | 2019 |
 
 ---
@@ -42,48 +42,44 @@ My role focused on **design review, engineering coordination, design management,
 | Parameter | Value |
 |:----------|------:|
 | Hull Type | **Catamaran** |
-| Material | **Aluminium Grade 5083** |
+| Material | **Aluminium Alloy 5083** |
 | Length Overall (LOA) | **30.98 m** |
-| Length Between Perpendiculars (LBP) | **28.77 m** |
 | Breadth (Max) | **8.40 m** |
 | Maximum Draft | **1.65 m** |
-| Full Load Displacement | **106 Ton** |
 | Maximum Speed | **12 knots** |
 
 ---
 
 ## 👨‍💼 Engineering Contributions
 
-- Reviewed the complete vessel design against contractual technical specifications.
-- Coordinated multidisciplinary engineering activities throughout the design phase.
-- Managed design revisions and engineering documentation.
-- Reviewed structural, outfitting, machinery, and production drawings.
-- Verified compliance with applicable naval standards, statutory regulations, and project requirements.
-- Coordinated technical discussions among designers, production teams, client representatives, and stakeholders.
-- Provided engineering support during construction, inspections, harbour acceptance tests, sea trials, and final delivery.
-- Assisted in resolving technical issues during construction through effective engineering coordination.
+- Developed detailed hull structural and production drawings from the approved basic design.
+- Prepared fabrication-ready structural documentation for aluminium hull construction.
+- Coordinated structural engineering activities with machinery, outfitting, piping, electrical, and production teams.
+- Reviewed production drawings to ensure constructability, fabrication efficiency, and compliance with project specifications.
+- Resolved structural and production-related technical issues throughout construction.
+- Supported workshop production, block assembly, inspections, harbour acceptance tests, sea trials, and final delivery.
+- Coordinated engineering changes, drawing revisions, and technical documentation during construction.
+- Worked closely with shipyard production personnel, client representatives, and project stakeholders to achieve successful project completion.
 
 ---
 
 ## ⭐ Technical Expertise Demonstrated
 
-**Design Review • Design Management • Engineering Coordination • Aluminium Ship Structures • Catamaran Vessel Design • Hydrographic Survey Vessel Engineering • Technical Documentation • Construction Support • Sea Trials • Commissioning • Quality Assurance • Regulatory Compliance**
+**Aluminium Ship Structures • Catamaran Structural Design • Detailed Structural Engineering • Production Design • Fabrication Drawings • Engineering Coordination • Construction Support • Technical Documentation • Production Engineering • Harbour Acceptance Tests • Sea Trials**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • Maxsurf • Rhino3D • AutoCAD • ANSYS**
+**AVEVA Marine • AutoCAD • Rhino3D • Maxsurf • ANSYS**
 
 ---
-
-
 
 ## 📬 Contact
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Design Management | Project Management | Classification Compliance**
+**Senior Naval Architect | Ship Design | Structural Engineering | Production Engineering | Design Management | Classification Compliance**
 
 📧 ariful.buet1985@gmail.com
 
